@@ -9,7 +9,6 @@
 ---
 
 # 1. What is debugging?
-- 
 - Learning thru debugging
 - Writing comments
 - Writing self documenting code
@@ -33,11 +32,12 @@
 
 *Activate on Mac using Option+Command+I or F12 on Windows and Linux*
 
-- breakpoint is an intentional stopping or pausing place in a script.
+!()[https://developer.chrome.com/devtools/docs/javascript-debugging/javascript-debugging-overview.jpg]
+
 - Sources panel, Find File with Command-P
 - Ctrl-G to get to a specific line quickly.
 - Pretty Print {}
-
+- Breakpoint is an intentional stopping or pausing place in a script.
 
 ## References
 - [Debugging JavaScript][35]
@@ -45,6 +45,8 @@
 ---
 
 # 4. Further reading
+
+- Try debugging using different browsers ex. Firefox, Safari, IE/Edge, Opera. 
 
 [15]: https://www.sitepoint.com/self-documenting-javascript/
 
