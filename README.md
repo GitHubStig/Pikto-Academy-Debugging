@@ -25,6 +25,7 @@
 - [console.warn][24] / [console.error][25]
 - [catch...try][26]
 - [debugger][27]
+- [$0][28]
 
 ---
 
@@ -58,6 +59,7 @@
 [25]: https://developer.mozilla.org/en-US/docs/Web/API/Console/error
 [26]: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Statements/try...catch
 [27]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger
+[28]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console/Helpers
 
 [35]: https://developer.chrome.com/devtools/docs/javascript-debugging
 [36]: https://developer.chrome.com/devtools/docs/device-mode]
