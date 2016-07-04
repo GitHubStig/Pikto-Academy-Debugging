@@ -32,7 +32,7 @@
 
 *Activate on Mac using Option+Command+I or F12 on Windows and Linux*
 
-!()[https://developer.chrome.com/devtools/docs/javascript-debugging/javascript-debugging-overview.jpg]
+![](https://developer.chrome.com/devtools/docs/javascript-debugging/javascript-debugging-overview.jpg)
 
 - Sources panel, Find File with Command-P
 - Ctrl-G to get to a specific line quickly.
@@ -42,6 +42,7 @@
 ## References
 - [Debugging JavaScript][35]
 - [Device Mode & Mobile Emulation][36]
+
 ---
 
 # 4. Further reading
